@@ -2,7 +2,8 @@
   "version": "26.06.01",
   "title": "BitOS 26.06.01",
   "changes": [
-    "Switched to NATIVE ANDROID instead of SPA",
-    "Migrated codebase of both Android and Web in one Repo"
+    "fixed a fatal exception error",
+    "Migrated codebase of both Android and Web in one Repo",
+    "tried to migrate app to native android but failed miserably"
   ]
 }
