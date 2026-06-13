@@ -1,14 +1,8 @@
 {
-  "version": "26.05.05",
-  "title": "BitOS 26.05.05",
+  "version": "26.06.01",
+  "title": "BitOS 26.06.01",
   "changes": [
-    "Added full account management support in Settings.",
-    "Display name now updates instantly using Firebase updateProfile.",
-    "Email changes now require password reauthentication for improved security.",
-    "Password changes now require reauthentication and automatically sign users out.",
-    "Added secure account deletion with DELETE confirmation and Firestore data cleanup.",
-    "Account flows now use reauthenticateWithCredential to prevent recent-login errors.",
-    "Improved authentication error handling with friendlier user-facing messages.",
-    "Profile picture editing remains intentionally disabled."
+    "Switched to NATIVE ANDROID instead of SPA",
+    "Migrated codebase of both Android and Web in one Repo"
   ]
 }
